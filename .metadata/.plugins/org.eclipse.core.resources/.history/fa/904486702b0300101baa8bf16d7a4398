@@ -1,0 +1,32 @@
+package br.sp.senai.jandira.calcular_figuras.model;
+
+public class Triangulo {
+	private double base;
+	private double altura;
+	
+	
+	public void setAltura { 
+		
+	}
+	
+	public double getAltura { 
+		
+	}
+	
+	public void setBase { 
+		
+	}
+	
+	public double getBase { 
+		
+	}
+	
+	public void exibirResultado {
+		System.out.println('============');
+		System.out.println('');
+		System.out.println('============');
+	
+	
+}
+
+

@@ -1,0 +1,39 @@
+package br.sp.senai.jandira.calcular_figuras;
+
+import br.sp.senai.jandira.calcular_figuras.model.Quadrado;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Trapezio tra1 = new Trapezio();
+		tra1.setBaseMenor();
+		tra1.setBaseMaior();
+		tra1.exibirResultado();
+		
+		Quadrado qua1 = new Quadrado ();
+		qua1.setLado(2);
+		qua1.exibirResultado()
+		
+		Triangulo tri = new Triangulo ();
+		tri1.setBase();
+		tri1.setAltura();
+		tri1.exibirResultado();
+		
+		Retangulo ret1 = new Retangulo ();
+		ret1.setBase();
+		ret1.setAltura();
+		ret1.exibirResultado();
+		
+		Circuferencia cir1 = new Circuferencia ();
+		cir1.setRaio();
+		cir1.exibirResultado();
+		
+		public void exibirResultado {
+			System.out.println('============');
+			System.out.println();
+			System.out.println('============');
+		}
+	}
+
+}
