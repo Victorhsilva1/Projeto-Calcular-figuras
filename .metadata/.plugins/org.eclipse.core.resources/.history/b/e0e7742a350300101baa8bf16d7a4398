@@ -1,6 +1,6 @@
 package br.sp.senai.jandira.calcular_figuras;
 
-import br.sp.senai.jandira.calcular_figuras.model.Menu;
+
 import br.sp.senai.jandira.calcular_figuras.model.Quadrado;
 import br.sp.senai.jandira.calcular_figuras.model.Retangulo;
 import br.sp.senai.jandira.calcular_figuras.model.Trapezio;
@@ -10,8 +10,6 @@ import br.sp.senai.jandira.calcular_figuras.model.Circuferencia;
 public class Main {
 
 	public static void main(String[] args) {
-		
-		Menu.criarMenu();
 		
 		Trapezio tra1 = new Trapezio();
 		tra1.setBaseMenor(2);

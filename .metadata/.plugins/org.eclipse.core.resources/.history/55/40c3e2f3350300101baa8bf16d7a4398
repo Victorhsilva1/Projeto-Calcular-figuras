@@ -1,6 +1,6 @@
 package br.sp.senai.jandira.calcular_figuras;
 
-import br.sp.senai.jandira.calcular_figuras.model.Menu;
+import br.sp.senai.jandira.calcular_figuras.model.menu;
 import br.sp.senai.jandira.calcular_figuras.model.Quadrado;
 import br.sp.senai.jandira.calcular_figuras.model.Retangulo;
 import br.sp.senai.jandira.calcular_figuras.model.Trapezio;
