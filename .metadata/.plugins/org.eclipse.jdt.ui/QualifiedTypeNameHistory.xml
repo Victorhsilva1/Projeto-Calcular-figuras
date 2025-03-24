@@ -3,4 +3,7 @@
     <fullyQualifiedTypeName name="br.sp.senai.jandira.clinica.model.Paciente"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="br.sp.senai.jandira.calcular_figuras.model.menu"/>
+    <fullyQualifiedTypeName name="br.sp.senai.jandira.calcular_figuras.model.Quadrado"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

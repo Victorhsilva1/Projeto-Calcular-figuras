@@ -1,0 +1,14 @@
+package br.sp.senai.jandira.calcular_figuras.repository;
+
+import java.util.Scanner;
+
+	public class RetanguloRepository {
+		public static void criarRetangulo () {
+			Scanner leitor = new Scanner(System.in);
+			System.out.println("");
+			System.out.println("Criando um retângulo...");
+			System.out.print("Qual a medida da base do retângulo?");
+			System.out.print("Qual a medida da base do retângulo?");
+			
+			Retangulo retangulo = new Retangulo();
+}

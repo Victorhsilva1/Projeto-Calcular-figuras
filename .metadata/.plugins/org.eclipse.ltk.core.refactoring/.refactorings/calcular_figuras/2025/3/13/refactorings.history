@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Menu.java&apos; to &apos;calcular_figuras/src/br.sp.senai.jandira.calcular_figuras.ui&apos;&#x0D;&#x0A;- Original project: &apos;calcular_figuras&apos;&#x0D;&#x0A;- Destination element: &apos;calcular_figuras/src/br.sp.senai.jandira.calcular_figuras.ui&apos;&#x0D;&#x0A;- Original element: &apos;br.sp.senai.jandira.calcular_figuras.model.Menu.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;br.sp.senai.jandira.calcular_figuras.ui" element1="/src&lt;br.sp.senai.jandira.calcular_figuras.model{Menu.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1742813007736" units="1" version="1.0"/>
+</session>

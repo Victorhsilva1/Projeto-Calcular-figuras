@@ -1,0 +1,9 @@
+package br.sp.senai.jandira.calcular_figuras.repository;
+
+public class QuadradoRepository {
+
+	public void criarQuadrado () {
+			
+	}
+
+}
